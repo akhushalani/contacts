@@ -1,0 +1,20 @@
+.list-group {
+	text-align: left;
+	color: #333;
+	font-size: calc(8px + 2vmin);
+	width: 80vmin;
+}
+
+.card-title {
+	font-size: calc(10px + 2vmin);
+	padding-bottom: 1vmin;
+}
+
+.card-subtitle {
+	font-size: calc(5px + 2vmin);
+	padding-bottom: 2vmin;
+}
+
+.card-body {
+	font-size: calc(5px + 2vmin);
+}
